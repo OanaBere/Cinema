@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.rezervare.Rezervare", "id_entity": "1", "id_film": "2", "id_card_client": "1", "data": "12-12-2021", "ora": "12:55:00"}, "2": {"py/object": "Domain.rezervare.Rezervare", "id_entity": "2", "id_film": "1", "id_card_client": "1", "data": "01-01-2022", "ora": "13:50:00"}}
